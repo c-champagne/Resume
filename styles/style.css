@@ -3,7 +3,8 @@ html {
 
 }
 h1 {
-    color: brown;
+    font-size: 45px;
+    color: bisque;
     text-align: center;
 }
 .centerpane {
@@ -16,7 +17,7 @@ h1 {
 }
 .profilepic {
     border-radius: 50%;
-    width:300px;
+    width:200px;
 }
 .lilogo {
     width: 100px;
@@ -26,7 +27,15 @@ table {
     margin: 60 40;
     width: 100%;
     background-color: coral;
+    text-align: center;
 }
 th {
     font-size: 26px;
+    color: brown;
+}
+td {
+    font-size: 18px;
+}
+ol, ul {
+    list-style-position: inside;
 }
