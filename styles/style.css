@@ -1,0 +1,32 @@
+html {
+    background-color: bisque;
+
+}
+h1 {
+    color: brown;
+    text-align: center;
+}
+.centerpane {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    color:brown;
+    background-color: darksalmon;
+}
+.profilepic {
+    border-radius: 50%;
+    width:300px;
+}
+.lilogo {
+    width: 100px;
+}
+table {
+    padding: 20px;
+    margin: 60 40;
+    width: 100%;
+    background-color: coral;
+}
+th {
+    font-size: 26px;
+}
