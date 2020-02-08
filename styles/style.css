@@ -18,6 +18,12 @@ h1 {
     color:brown;
     background-color: darksalmon;
 }
+.rightpane {
+    right: 75%;
+}
+.leftpane {
+    left: 75%;
+}
 #profilepic {
     border-radius: 50%;
     width:200px;
@@ -37,6 +43,7 @@ th {
     color: brown;
     margin: 0px;
     padding: 5px;
+    width: 33%;
 }
 td {
     font-size: 18px;
